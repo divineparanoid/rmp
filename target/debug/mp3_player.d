@@ -1,0 +1,1 @@
+/home/cursedblessed/Projects/rmp/target/debug/mp3_player: /home/cursedblessed/Projects/rmp/src/app.rs /home/cursedblessed/Projects/rmp/src/audio.rs /home/cursedblessed/Projects/rmp/src/main.rs /home/cursedblessed/Projects/rmp/src/ui.rs

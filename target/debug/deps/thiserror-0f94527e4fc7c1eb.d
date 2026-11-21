@@ -1,0 +1,14 @@
+/home/cursedblessed/Projects/mp3_player/target/debug/deps/thiserror-0f94527e4fc7c1eb.d: /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/cursedblessed/Projects/mp3_player/target/debug/build/thiserror-2a2ace9117c7add0/out/private.rs
+
+/home/cursedblessed/Projects/mp3_player/target/debug/deps/libthiserror-0f94527e4fc7c1eb.rlib: /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/cursedblessed/Projects/mp3_player/target/debug/build/thiserror-2a2ace9117c7add0/out/private.rs
+
+/home/cursedblessed/Projects/mp3_player/target/debug/deps/libthiserror-0f94527e4fc7c1eb.rmeta: /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/cursedblessed/Projects/mp3_player/target/debug/build/thiserror-2a2ace9117c7add0/out/private.rs
+
+/home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs:
+/home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs:
+/home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs:
+/home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs:
+/home/cursedblessed/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs:
+/home/cursedblessed/Projects/mp3_player/target/debug/build/thiserror-2a2ace9117c7add0/out/private.rs:
+
+# env-dep:OUT_DIR=/home/cursedblessed/Projects/mp3_player/target/debug/build/thiserror-2a2ace9117c7add0/out
